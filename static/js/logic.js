@@ -2,7 +2,7 @@
 // let mapZoomLevel = 12;
 
 // Create the createMap function.
-function createMap(bikestations) {
+function createMap(bikeStations) {
 
 
   // Create the tile layer that will be the background of our map.
